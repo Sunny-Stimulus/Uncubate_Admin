@@ -58,10 +58,10 @@ const OfferMaster = () => {
                                 <td>04 Aug 2021 06:15 pm</td>
                                 <td>CoWorking Space - Open Dedicated Desk</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>

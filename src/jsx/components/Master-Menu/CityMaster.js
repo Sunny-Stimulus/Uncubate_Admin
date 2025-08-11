@@ -57,10 +57,10 @@ const CityMaster = () => {
                                 <td>13 Jul 2020 11:26 am</td>
                                 <td>Ahmedabad</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button size="sm" className="me-2" style={{ backgroundColor: '#fff', color: '#333' }}>
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button size="sm" style={{ backgroundColor: '#fff', color: '#333' }}>
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>

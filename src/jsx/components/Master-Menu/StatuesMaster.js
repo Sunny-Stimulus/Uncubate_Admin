@@ -61,10 +61,10 @@ const StatusMaster = () => {
                                 <td>Cabin</td>
                                 <td>Yes</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -74,10 +74,10 @@ const StatusMaster = () => {
                                 <td>Meeting Room</td>
                                 <td>Yes</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -87,10 +87,10 @@ const StatusMaster = () => {
                                 <td>Event place 1</td>
                                 <td>Yes</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -100,10 +100,10 @@ const StatusMaster = () => {
                                 <td>Highly Intrested</td>
                                 <td>Yes</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -113,10 +113,10 @@ const StatusMaster = () => {
                                 <td>Conference</td>
                                 <td>No</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -126,10 +126,10 @@ const StatusMaster = () => {
                                 <td>Email sent</td>
                                 <td>No</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -138,10 +138,10 @@ const StatusMaster = () => {
                                 <td>Follow up</td>
                                 <td>Yes</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>

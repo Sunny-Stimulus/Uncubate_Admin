@@ -58,10 +58,10 @@ const ServiceMaster = () => {
                                 <td>25 Jun 2024 11:55 am</td>
                                 <td>Virtual Office for GST</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -70,10 +70,10 @@ const ServiceMaster = () => {
                                 <td>13 Jul 2020 01:24 pm</td>
                                 <td>Event / Training Area</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -82,10 +82,10 @@ const ServiceMaster = () => {
                                 <td>13 Jul 2020 02:34 pm</td>
                                 <td>Conference Room	</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -94,10 +94,10 @@ const ServiceMaster = () => {
                                 <td>13 Jul 2020 02:21 pm</td>
                                 <td>Meeting room</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -106,10 +106,10 @@ const ServiceMaster = () => {
                                 <td>13 Jul 2020 02:36 pm</td>
                                 <td>CoWorking Space</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>

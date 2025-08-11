@@ -58,10 +58,10 @@ const AmenitiesMaster = () => {
                                 <td>31 Jul 2020 09:01 pm</td>
                                 <td>Housekeeping</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -70,10 +70,10 @@ const AmenitiesMaster = () => {
                                 <td>23 Jul 2020 11:02 pm</td>
                                 <td>Event Area</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -82,10 +82,10 @@ const AmenitiesMaster = () => {
                                 <td>23 Jul 2020 10:59 pm</td>
                                 <td>Rooftop Cafe</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -94,10 +94,10 @@ const AmenitiesMaster = () => {
                                 <td>23 Jul 2020 10:59 pm</td>
                                 <td>Pantry Area</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -106,10 +106,10 @@ const AmenitiesMaster = () => {
                                 <td>23 Jul 2020 10:59 pm</td>
                                 <td>Business Printer</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -118,10 +118,10 @@ const AmenitiesMaster = () => {
                                 <td>23 Jul 2020 10:58 pm</td>
                                 <td>Conference Room</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -130,10 +130,10 @@ const AmenitiesMaster = () => {
                                 <td>23 Jul 2020 10:58 pm</td>
                                 <td>Meeting Room</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
@@ -142,10 +142,10 @@ const AmenitiesMaster = () => {
                                 <td>23 Jul 2020 10:56 pmUnlimited Internet</td>
                                 <td>Unlimited Internet</td>
                                 <td className="text-end">
-                                    <Button variant="warning" size="sm" className="me-2">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm" className="me-2">
                                         <i className="fas fa-edit"></i>
                                     </Button>
-                                    <Button variant="danger" size="sm">
+                                    <Button style={{ backgroundColor: '#fff', color: '#333' }} size="sm">
                                         <i className="fas fa-trash"></i>
                                     </Button>
                                 </td>
