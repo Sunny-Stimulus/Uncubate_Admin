@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Uncubate_Admin/static/css/main.c632ce36.css",
-    "main.js": "/Uncubate_Admin/static/js/main.c2558c60.js",
+    "main.js": "/Uncubate_Admin/static/js/main.32ce22e3.js",
     "static/js/591.724904fd.chunk.js": "/Uncubate_Admin/static/js/591.724904fd.chunk.js",
     "static/js/18.2271b73a.chunk.js": "/Uncubate_Admin/static/js/18.2271b73a.chunk.js",
     "static/js/951.01b9e4ec.chunk.js": "/Uncubate_Admin/static/js/951.01b9e4ec.chunk.js",
@@ -91,7 +91,7 @@
     "static/media/slick.woff": "/Uncubate_Admin/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Uncubate_Admin/index.html",
     "main.c632ce36.css.map": "/Uncubate_Admin/static/css/main.c632ce36.css.map",
-    "main.c2558c60.js.map": "/Uncubate_Admin/static/js/main.c2558c60.js.map",
+    "main.32ce22e3.js.map": "/Uncubate_Admin/static/js/main.32ce22e3.js.map",
     "591.724904fd.chunk.js.map": "/Uncubate_Admin/static/js/591.724904fd.chunk.js.map",
     "18.2271b73a.chunk.js.map": "/Uncubate_Admin/static/js/18.2271b73a.chunk.js.map",
     "951.01b9e4ec.chunk.js.map": "/Uncubate_Admin/static/js/951.01b9e4ec.chunk.js.map",
@@ -120,6 +120,6 @@
   },
   "entrypoints": [
     "static/css/main.c632ce36.css",
-    "static/js/main.c2558c60.js"
+    "static/js/main.32ce22e3.js"
   ]
 }
